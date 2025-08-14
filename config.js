@@ -9,12 +9,12 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&H8wSkbiZ#2ruPxZCSdA5epYepY4yzQJDnNkl4UJcooZb4-PCKU9Y",
 
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "+923152330489",
     OWNER_NAME: process.env.OWNER_NAME || "HansTech",
     DEV: process.env.DEV || "255760774888",
 
@@ -83,7 +83,7 @@ module.exports = {
     //         REACTIONS
     // ==============================
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
-    CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
+    CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡🔥,🔥,😘,🤘🏻,😫,🤓,🙁,☠️,👀,💍,💛,💚,💙,💜,🤎,🖤,🤍",
 
     // ==============================
     //          PRIVACY
